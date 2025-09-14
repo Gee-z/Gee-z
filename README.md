@@ -4,7 +4,15 @@ Hi, I'm George 👋
 Hi, I'm George Mercedes Junior Suitela. I’m a game programmer specializing in Unity & C#, crafting 2D worlds one line of code at a time. From pixel-perfect platformers to quirky indie experiments, I love bringing ideas to life through code and creativity.
 
 *📩Email* <br>
-georgesuitela05@gmail.com
+georgesuitela05@gmail.com <br>
+
+<b>Check My Other Games!</b><br>
+<a>
+  <img src="https://static.itch.io/images/itchio-textless-white.svg" width="20" align="center"/>
+</a>
+<a href="https://gee-z.itch.io/" >gee-z.itch.io</a>
+
+
 
 <br>
 
@@ -38,8 +46,8 @@ georgesuitela05@gmail.com
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%" align="center"><a>OverLay</a></th> <!--tittle-->
-      <th width="50%" align="center"><a>SynChrono</a></th> <!--tittle-->
+      <th width="50%" align="center"><a href="https://thizen.itch.io/overlay">OverLay</a></th> <!--tittle-->
+      <th width="50%" align="center"><a href="https://thizen.itch.io/synchrono">SynChrono</a></th> <!--tittle-->
     </tr>
   </thead>
   <tbody>
@@ -52,7 +60,7 @@ georgesuitela05@gmail.com
       </td>
     </tr>
     <tr>
-      <td valign="text-top">Pink Waifu/td> <!--desc-->
+      <td valign="text-top">Pink Waifu</td> <!--desc-->
       <td valign="text-top">Purple Waifu</td> <!--desc-->
     </tr>
 <!--     <tr> -->
